@@ -1,7 +1,7 @@
 # Clone the github repo
 
 ```shell
-git clone https://github.com/imadki/LBD.git
+git clone https://github.com/imadki/ADSAI.git
 ```
 
 # Windows
